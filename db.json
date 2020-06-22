@@ -1,0 +1,24 @@
+{
+  "mahasiswa": [
+    {
+      "id": 777555,
+      "nama": "Viody Alfaridzi",
+      "kelas": "IFB1E"
+    },
+    {
+      "id": 123123,
+      "nama": "Rizal"
+      "kelas": "IFB1E"
+    },
+    {
+      "id": 456456,
+      "nama": "Restu"
+      "kelas": "IFB1E"
+    },
+    {
+      "id": 789789,
+      "nama": "Excel"
+      "kelas": "IFB1E"
+    }
+  ]
+}
